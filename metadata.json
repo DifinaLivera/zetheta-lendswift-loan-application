@@ -1,0 +1,6 @@
+{
+  "name": "LendSwift Loan Application",
+  "description": "A production-grade, 8-step multi-step loan application form with real-time validation, dynamic fields, secure auto-save with AES-256 encryption, document uploading with canvas-based client-side compression, custom e-signature capture, and instant pre-approval EMI summary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
